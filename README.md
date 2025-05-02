@@ -1,2 +1,2 @@
-# blackboxai-1746165793235
+# Rosary Companion
 Built by https://www.blackbox.ai
